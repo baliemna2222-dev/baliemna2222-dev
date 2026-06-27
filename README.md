@@ -1,7 +1,21 @@
-## Hi, I'm Emna 💫✨
-Welcome to my little starshine in the coding universe 
-# 💫 About Me:
-💻 Software Engineering student exploring development and systems.<br><br>🔧 Starting my journey into hardware through mini-projects and hands-on learning.<br><br>🐞 Building, breaking, fixing, and learning along the way.<br><br>🚀 Turning curiosity into real projects.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=C8622A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Emna+Ben+Ali+%F0%9F%92%AB;Software+Engineer+%2B+Robot+Builder;Full-stack+by+day.+Robotics+by+night." alt="Typing SVG" />
+
+<br/>
+
+<p>
+  2nd-year Software Engineering student · Faculté des Sciences de Bizerte<br/>
+  <em>Building software that runs — and hardware that walks.</em>
+</p>
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benaliemna2005@gmail.com)
+
+</div>
+
+## 💫 About Me:
+💻 Full-stack developer with a growing obsession for hardware — I write Angular frontends in the afternoon and debug servo wires at midnight.<br><br>🤖 Currently building a Bluetooth-controlled quadruped robot with 8 servos and an ESP32 brain — 3D-printed, hand-soldered, and very much a work in progress.<br><br>🔧 My stack spans web, databases, embedded systems, and image processing — I like problems that cross boundaries.<br><br>🚀 Every project starts with curiosity and ends with something real.
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benaliemna2005@gmail.com) 
 # 💻 Tech Stack:
@@ -13,6 +27,5 @@ Welcome to my little starshine in the coding universe
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=baliemna2222-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 ---
-
