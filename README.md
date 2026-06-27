@@ -15,6 +15,4 @@ Welcome to my little starshine in the coding universe
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 ---
-[![](https://komarev.com/ghpvc/?username=baliemna2222-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- can you make this better
+
