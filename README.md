@@ -25,9 +25,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=baliemna2222-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Dev Quotes
-> 🌸 [View my favorite dev quotes →](https://github.com/baliemna2222-dev/emna-benali.github.io/quotes.html)
-
+### ✍️ Dev Quotes### ✍️ Dev Quotes
+🌸 [View my favorite dev quotes →](https://github.com/baliemna2222-dev/emna-benali.github.io/quotes.html)
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
