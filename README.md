@@ -1,12 +1,8 @@
+
 <div align="center">
-
-# Emna Ben Ali
-### Welcome to my coding space ✦
-
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C8622A&text=✦%20Emna%20Ben%20Ali%20✦&height=120&fontSize=50&fontAlignY=50&animation=fadeIn&desc=Welcome%20to%20my%20coding%20space&descSize=16&descAlignY=75&descFontColor=888888" width="100%"/>
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C8622A&center=true&vCenter=true&width=550&lines=Software+Engineering+Student+%40+FSB;Full-Stack+Developer+%7C+IoT+%26+Robotics;Building+things+that+run+%E2%80%94+and+walk.;ESP32+%7C+Angular+%7C+Java+%7C+Python;Always+building.+Always+learning." alt="Typing SVG" />
-
 </div>
 
 ## 💫 About Me:
