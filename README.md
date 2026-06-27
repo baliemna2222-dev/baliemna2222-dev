@@ -1,9 +1,6 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Emna%20Ben%20Ali&fontSize=52&fontColor=fff&animation=scaleIn&fontAlignY=38&desc=✨%20Welcome%20to%20my%20coding%20space%20✨&descSize=18&descAlignY=62&descFontColor=ffb3d9" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=e91e8c&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Robotics+%26+Hardware+Enthusiast;Driven+to+Learn+and+Build." alt="Typing SVG" />
-
 <br/>
 <br/>
 </div>
@@ -25,8 +22,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=baliemna2222-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Dev Quotes### ✍️ Dev Quotes
-🌸 [View my favorite dev quotes →](https://github.com/baliemna2222-dev/emna-benali.github.io/quotes.html)
+### ✍️ Dev Quotes
+
+<div align="center">
+  <a href="https://emna-benali.github.io/quotes.html">
+    <img src="https://img.shields.io/badge/🌸_View_Dev_Quotes-Click_to_explore_20+_quotes-ff6eb4?style=for-the-badge&labelColor=2d0028" alt="Dev Quotes"/>
+  </a>
+</div>
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
