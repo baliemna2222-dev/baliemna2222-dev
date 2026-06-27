@@ -1,9 +1,8 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C8622A&text=✦%20Emna%20Ben%20Ali%20✦&height=120&fontSize=50&fontAlignY=50&animation=fadeIn&desc=Welcome%20to%20my%20coding%20space&descSize=16&descAlignY=75&descFontColor=888888" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Emna%20Ben%20Ali&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✨%20Welcome%20to%20my%20coding%20space%20✨&descSize=18&descAlignY=62&descFontColor=ffb3d9" width="100%"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C8622A&center=true&vCenter=true&width=550&lines=Software+Engineering+Student+%40+FSB;Full-Stack+Developer+%7C+IoT+%26+Robotics;Building+things+that+run+%E2%80%94+and+walk.;ESP32+%7C+Angular+%7C+Java+%7C+Python;Always+building.+Always+learning." alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=e91e8c&center=true&vCenter=true&width=550&lines=Software+Engineering+Student+%40+FSB;Full-Stack+Developer+%7C+IoT+%26+Robotics;Building+things+that+run+%E2%80%94+and+walk.;ESP32+%7C+Angular+%7C+Java+%7C+Python;Always+building.+Always+learning." alt="Ty
 
 ## 💫 About Me:
 💻 Software Engineering student exploring development and systems.<br><br>🔧 Starting my journey into hardware through mini-projects and hands-on learning.<br><br>🐞 Building, breaking, fixing, and learning along the way.<br><br>🚀 Turning curiosity into real projects.
