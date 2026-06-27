@@ -25,7 +25,7 @@
 ### ✍️ Dev Quotes
 
 <div align="center">
-  <a href="https://emna-benali.github.io/quotes.html">
+  <a href="https://baliemna2222-dev.github.io/emna-benali.github.io/quotes.html">
     <img src="https://img.shields.io/badge/🌸_View_Dev_Quotes-Click_to_explore_20+_quotes-ff6eb4?style=for-the-badge&labelColor=2d0028" alt="Dev Quotes"/>
   </a>
 </div>
