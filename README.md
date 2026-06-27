@@ -9,7 +9,8 @@
 <br/>
 <br/>
 </div>
-##💫 About Me:
+
+## 💫 About Me:
 💻 Software Engineering student exploring development and systems.<br><br>🔧 Starting my journey into hardware through mini-projects and hands-on learning.<br><br>🐞 Building, breaking, fixing, and learning along the way.<br><br>🚀 Turning curiosity into real projects.
 
 ## 🌐 Socials:
