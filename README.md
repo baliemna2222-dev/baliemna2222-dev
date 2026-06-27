@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=e91e8c&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Robotics+%26+Hardware+Enthusiast;Driven+to+Learn+and+Build." alt="Typing SVG" />
 
 <br/>
-
+<br/>
 </div>
 ## 💫 About Me:
 💻 Software Engineering student exploring development and systems.<br><br>🔧 Starting my journey into hardware through mini-projects and hands-on learning.<br><br>🐞 Building, breaking, fixing, and learning along the way.<br><br>🚀 Turning curiosity into real projects.
