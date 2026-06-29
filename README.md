@@ -20,7 +20,10 @@
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 **Hardware & IoT**
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white) ![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-6B2FBF?style=for-the-badge&logo=mit&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-6B2FBF?style=for-the-badge&logo=mit&logoColor=white)
+
+**Networking**
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 **Design & Tools**
 ![Ultimaker Cura](https://img.shields.io/badge/Ultimaker%20Cura-2BACE2?style=for-the-badge&logo=ultimaker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
