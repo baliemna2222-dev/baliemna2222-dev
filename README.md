@@ -49,3 +49,7 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+
+[![Raksha](https://github-readme-stats.vercel.app/api/pin/?username=baliemna2222-dev&repo=Raksha-Streaming-Platform
+&theme=radical)](https://github.com/baliemna2222-dev/Raksha-Streaming-Platform
+)
