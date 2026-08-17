@@ -46,7 +46,7 @@
   <br/><br/>
 
   <a href="https://drive.google.com/file/d/1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP/view?usp=sharing">
-    <img src="https://drive.google.com/thumbnail?id=1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP&sz=w700" width="600" alt="▶️ Click to watch the robotics demo" style="border-radius:14px; border: 3px solid #e91e8c;"/>
+    <img src="https://drive.google.com/thumbnail?id=1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP&sz=w700" width="600" alt=" Click to watch the robotics demo" style="border-radius:14px; border: 3px solid #e91e8c;"/>
   </a>
   <br/><br/>
   
