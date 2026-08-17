@@ -30,7 +30,15 @@
 
 **Design & Tools**
 ![Ultimaker Cura](https://img.shields.io/badge/Ultimaker%20Cura-2BACE2?style=for-the-badge&logo=ultimaker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🎥 Robotics Demo
 
+<div align="center">
+  <a href="https://drive.google.com/file/d/1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP/view?usp=sharing">
+    <img src="https://drive.google.com/thumbnail?id=1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP&sz=w600" width="600" alt="▶️ Click to watch the robotics demo" style="border-radius:10px;"/>
+  </a>
+  <br/>
+  <sub>🎬 Click the image above to watch the full video on Google Drive</sub>
+</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=baliemna2222-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=baliemna2222-dev&theme=radical&hide_border=false)<br/>
