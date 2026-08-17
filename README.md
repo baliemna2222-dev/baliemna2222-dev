@@ -41,7 +41,7 @@ An ESP32-based spider robot controlled over Bluetooth using 8 SG90 servos. I wor
 **🚗 Omnidirectional Mecanum Wheel Robot**
 An ESP32-based WiFi-controlled robot built on Mecanum wheels for full omnidirectional movement. Designed the circuit from scratch, simulated it in Wokwi (including a discrete transistor H-bridge workaround when I couldn't get L298N parts), and documented the full build process.
 
-🎥 [Watch my exprience with Maker Skills](https://drive.google.com/file/d/1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP/view?usp=sharing)
+🎥 [Watch my experience with Maker Skills](https://drive.google.com/file/d/1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP/view?usp=sharing)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=baliemna2222-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
