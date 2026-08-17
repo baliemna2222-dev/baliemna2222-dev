@@ -31,13 +31,6 @@
 **Design & Tools**
 ![Ultimaker Cura](https://img.shields.io/badge/Ultimaker%20Cura-2BACE2?style=for-the-badge&logo=ultimaker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=baliemna2222-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=baliemna2222-dev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=baliemna2222-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=baliemna2222-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ### 🤖 Robotics Experience
 
 My hands-on journey into hardware started with mini-projects combining embedded systems, wireless control, and mechanical design — turning code into things that actually move.
@@ -50,9 +43,14 @@ An ESP32-based WiFi-controlled robot built on Mecanum wheels for full omnidirect
 
 🎥 [Watch a demo of my maker skills in action](https://drive.google.com/file/d/1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP/view?usp=sharing)
 
-<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=baliemna2222-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=baliemna2222-dev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=baliemna2222-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-6B2FBF?style=for-the-badge&logo=mit&logoColor=white) ![Wokwi](https://img.shields.io/badge/Wokwi-1A1A2E?style=for-the-badge&logo=arduino&logoColor=white)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=baliemna2222-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### ✍️ Dev Quotes
 <div align="center">
   <a href="https://baliemna2222-dev.github.io/emna-benali.github.io/quotes.html">
@@ -63,4 +61,3 @@ An ESP32-based WiFi-controlled robot built on Mecanum wheels for full omnidirect
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
-
