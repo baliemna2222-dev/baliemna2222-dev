@@ -38,7 +38,15 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=baliemna2222-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🎥 Robotics Demo
 
+<div align="center">
+  <a href="https://drive.google.com/file/d/1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP/view?usp=sharing">
+    <img src="https://drive.google.com/thumbnail?id=1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP&sz=w600" width="600" alt="▶️ Click to watch the robotics demo" style="border-radius:10px;"/>
+  </a>
+  <br/>
+  <sub>🎬 Click the image above to watch the full video on Google Drive</sub>
+</div>
 ### ✍️ Dev Quotes
 <div align="center">
   <a href="https://baliemna2222-dev.github.io/emna-benali.github.io/quotes.html">
