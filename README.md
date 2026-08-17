@@ -38,25 +38,21 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=baliemna2222-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-### 🎥 Robotics Demo
+### 🤖 Robotics Experience
 
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=e91e8c&center=true&vCenter=true&width=450&lines=Watch+my+robot+in+action+%F0%9F%A4%96;Built%2C+coded%2C+and+tested+by+me" alt="Typing SVG" />
-  <br/><br/>
+My hands-on journey into hardware started with mini-projects combining embedded systems, wireless control, and mechanical design — turning code into things that actually move.
 
-  <div align="center">
-  <a href="https://drive.google.com/file/d/1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP/view?usp=sharing">
-    <img src="https://raw.githubusercontent.com/baliemna2222-dev/YOUR_REPO_NAME/main/assets/maker-demo-thumbnail.png" width="500" alt="Click to watch"/>
-  </a>
-</div>
-  <br/><br/>
-  
-  <a href="https://drive.google.com/file/d/1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP/view?usp=sharing">
-    <img src="https://img.shields.io/badge/▶️_Watch_Full_Video-Google_Drive-e91e8c?style=for-the-badge&labelColor=2d0028" alt="Watch on Drive"/>
-  </a>
+**🕷️ Bluetooth Quadruped Spider Robot**
+An ESP32-based spider robot controlled over Bluetooth using 8 SG90 servos. I worked through gait optimization — progressing from basic sequential leg movement to a proper diagonal trot — and debugged real hardware issues along the way, from servo sync collisions to power brownouts. Paired with a custom-styled MIT App Inventor controller app.
 
-</div>
+**🚗 Omnidirectional Mecanum Wheel Robot**
+An ESP32-based WiFi-controlled robot built on Mecanum wheels for full omnidirectional movement. Designed the circuit from scratch, simulated it in Wokwi (including a discrete transistor H-bridge workaround when I couldn't get L298N parts), and documented the full build process.
+
+🎥 [Watch a demo of my maker skills in action](https://drive.google.com/file/d/1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP/view?usp=sharing)
+
+<br/>
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-6B2FBF?style=for-the-badge&logo=mit&logoColor=white) ![Wokwi](https://img.shields.io/badge/Wokwi-1A1A2E?style=for-the-badge&logo=arduino&logoColor=white)
 ### ✍️ Dev Quotes
 <div align="center">
   <a href="https://baliemna2222-dev.github.io/emna-benali.github.io/quotes.html">
