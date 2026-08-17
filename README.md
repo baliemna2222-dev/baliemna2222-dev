@@ -41,11 +41,19 @@
 ### 🎥 Robotics Demo
 
 <div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=e91e8c&center=true&vCenter=true&width=450&lines=Watch+my+robot+in+action+%F0%9F%A4%96;Built%2C+coded%2C+and+tested+by+me" alt="Typing SVG" />
+  <br/><br/>
+
   <a href="https://drive.google.com/file/d/1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP/view?usp=sharing">
-    <img src="https://drive.google.com/thumbnail?id=1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP&sz=w600" width="600" alt="▶️ Click to watch the robotics demo" style="border-radius:10px;"/>
+    <img src="https://drive.google.com/thumbnail?id=1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP&sz=w700" width="600" alt="▶️ Click to watch the robotics demo" style="border-radius:14px; border: 3px solid #e91e8c;"/>
   </a>
-  <br/>
-  <sub>🎬 Click the image above to watch the full video on Google Drive</sub>
+  <br/><br/>
+  
+  <a href="https://drive.google.com/file/d/1e--zcXxmIv3CJZ21BHdlMJfLp8ophfzP/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶️_Watch_Full_Video-Google_Drive-e91e8c?style=for-the-badge&labelColor=2d0028" alt="Watch on Drive"/>
+  </a>
+
 </div>
 ### ✍️ Dev Quotes
 <div align="center">
